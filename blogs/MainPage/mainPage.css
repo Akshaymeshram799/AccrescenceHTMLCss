@@ -1,0 +1,16 @@
+
+body{
+    background-color: #02091B;
+    
+}
+
+body::-webkit-scrollbar {
+  width: 5px;     
+  background-color: #022443;          
+}
+
+body::-webkit-scrollbar-thumb {
+
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px solid #333367;  /* creates padding around scroll thumb */
+}
